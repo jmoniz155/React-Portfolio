@@ -1,71 +1,70 @@
-# React-Portfolio
+# Getting Started with Create React App
 
-## Description
-```
-This React Portfolio
-```
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![]()
+## Available Scripts
 
----
+In the project directory, you can run:
 
-## Function
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
----
+### `npm test`
 
-## Table of Contents
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-[Description](#description)
+### `npm run build`
 
-[Study-Material](#Study-Material)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Features](#features)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-[Links](#links)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-[Author](#author)
+### `npm run eject`
 
----
-## Study-Material
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-[Mongodb](https://www.mongodb.com/)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-[Mongodb Methods](https://docs.mongodb.com/mongodb-shell/reference/methods/)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-[Mongoose](https://mongoosejs.com/docs/5.x/docs/models.html)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-[Express](https://expressjs.com/en/starter/hello-world.html)
+## Learn More
 
-[Cache](https://web.dev/offline-cookbook/#cache-falling-back-to-network)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-[Mozilla Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-[Mozilla Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker)
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Features
+### Analyzing the Bundle Size
 
-This app was built using HTML 3, CSS 6, Javascript
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
----
+### Making a Progressive Web App
 
-## Links
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-[GitHub Repository](https://github.com/jmoniz155/React-Portfolio)
+### Advanced Configuration
 
----
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## Author
+### Deployment
 
-![lco mascot](https://learncodeonline.in/mascot.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-`Jesse Moniz: UCSD coding student in San Diego, CA`
+### `npm run build` fails to minify
 
-
-| Name          | Email                 | Github                        | Linkedin                                              |
-| ------------- | --------------------- | ----------------------------- | ----------------------------------------------------- |
-| Jesse Moniz   | Jmoniz155@gmail.com   | https://github.com/jmoniz155  | https://www.linkedin.com/in/jesse-moniz-98693621a/    |
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
