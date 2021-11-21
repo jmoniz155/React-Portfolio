@@ -1,11 +1,11 @@
-import React from 'react';
+// import React from 'react';
 
-class Resume extends Component {
-    render()
-    return(
+// class Resume extends Component {
+//     render()
+//     return(
 
-    )
-}
+//     )
+// }
 
-export default Resume;
+// export default Resume;
 

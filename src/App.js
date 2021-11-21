@@ -1,9 +1,9 @@
 import './App.css';
-import AboutMe from './AboutMe';
-import Contact from './Contact';
-import Projects from './Projects';
-import Resume from './Resume';
-import Header from './Header';
+import AboutMe from './components/AboutMe';
+import Contact from './components/Contact';
+import Projects from './components/Projects';
+// import Resume from './components/Resume';
+import Header from './components/Header';
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
         <Header />
         <AboutMe />
         <Projects />
-        <Resume />
+        {/* <Resume /> */}
         <Contact />
       </>
     )
